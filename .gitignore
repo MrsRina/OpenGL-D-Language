@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/oi
+oi.so
+oi.dylib
+oi.dll
+oi.a
+oi.lib
+oi-test-*
+*.exe
+*.o
+*.obj
+*.lst
