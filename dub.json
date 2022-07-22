@@ -1,9 +1,17 @@
 {
 	"authors": [
-		"oi"
+		"Diyng"
 	],
 	"copyright": "oi",
-	"description": "oi",
-	"license": "oi",
+	"dependencies": {
+		"bindbc-opengl": "~>1.0.2",
+		"bindbc-sdl": "~>1.2.1"
+	},
+	
+	"versions": [
+		"SDL_2022"
+	],
+	"description": "A minimal D application.",
+	"license": "proprietary",
 	"name": "oi"
 }
