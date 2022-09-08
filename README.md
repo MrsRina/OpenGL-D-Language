@@ -1,2 +1,1 @@
-# Batch-System-OpenGL-D
- Batch system using API OpenGL written in D language.
+Simple unifinished batch system using API OpenGL written in D language.
